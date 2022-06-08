@@ -1,2 +1,2 @@
 # Tonics Media Module
-Would Contain Tonics Media Module Releases
+Contains Tonics Media Module Releases
