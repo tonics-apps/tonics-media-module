@@ -1,2 +1,2 @@
-# tonics-media-module
+# Tonics Media Module
 Would Contain Tonics Media Module
